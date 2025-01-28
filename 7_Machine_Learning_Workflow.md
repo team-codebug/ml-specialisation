@@ -71,7 +71,7 @@ The process of solving a problem with machine learning involves the following st
 ### **3. Example/Observation**
 - **Definition:** A single data point within the dataset (represented by a row).
 - **Example:** A single property with values:  
-Size: 1500 sq ft | Rooms: 3 | Location: New York | Price: $500,000
+- Size: 1500 sq ft | Rooms: 3 | Location: New York | Price: $500,000
 
 ### **4. Label**
 - **Definition:** The target value of a single data point.
