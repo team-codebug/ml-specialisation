@@ -11,6 +11,8 @@
 
 It provides flexible **DataFrames**, which allow efficient data processing similar to databases.
 
+**Exercise File:** Available at [GitHub Repository](https://github.com/team-codebug/ml-specialisation/blob/main/8_Retrieving_Data_From_CSV_And_JSON_Files.ipynb)
+
 ---
 
 ## **2. Reading CSV Files**  
@@ -90,16 +92,6 @@ A **DataFrame** is the primary data structure in **Pandas** that represents tabu
 
 ---
 
-## **5. Machine Learning Vocabulary with a Real-World Example**
-
-| **Term**       | **Definition**                                    | **Example (House Price Prediction)** |
-|---------------|--------------------------------------------------|--------------------------------------|
-| **Target**    | The value to be predicted                        | House price ($) |
-| **Features**  | Variables used to make predictions               | Number of rooms, location, size (sq ft) |
-| **Observation** | A single data point (row)                     | A house with 3 rooms, 1500 sq ft, in New York |
-| **Label**     | The actual value of the target for an observation | The actual house price ($500,000) |
-
----
 
 ## **6. References**  
 
