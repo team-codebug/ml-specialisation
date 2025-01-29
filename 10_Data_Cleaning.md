@@ -8,42 +8,11 @@ Data cleaning is a critical step in any data-driven process, as decisions and an
 - **Improved business outcomes**: Ensures better AI and data-driven strategies.
 
 ### Key Aspects of Machine Learning Workflow Dependent on Clean Data
-```
-+-----------------+
-| Observations    |
-| (Data Points)   |
-+-----------------+
-        |
-        v
-+-----------------+
-| Features        |
-| (Attributes)    |
-+-----------------+
-        |
-        v
-+-----------------+
-| Labels          |
-| (Target Output) |
-+-----------------+
-        |
-        v
-+-----------------+
-| Algorithms      |
-| (Model Training)|
-+-----------------+
-        |
-        v
-+-----------------+
-| Model          |
-| (Predictions)  |
-+-----------------+
-```
-
 - **Observations**: Instances of data, usually represented as rows in a dataset.
-- **Labels**: The output variable(s) being predicted.
-- **Algorithms**: The computational methods used to estimate models based on data.
 - **Features**: Attributes or variables that describe observations.
+- **Algorithms**: The computational methods used to estimate models based on data.
 - **Model**: A hypothesized relationship between input features and labels.
+- **Labels**: The output variable(s) being predicted.
 
 Poor-quality data leads to the *garbage-in, garbage-out* effect, where unreliable data produces unreliable results.
 
