@@ -99,6 +99,13 @@ df = pd.read_csv(data_url, header=None)
 
 ---
 
+## Exercise
+To practice retrieving data from databases, APIs, and the cloud, work through the following Jupyter Notebook:
+
+[Retrieving Data from Databases, APIs, and the Cloud - Exercise](https://github.com/team-codebug/ml-specialisation/blob/main/9_Retrieving_Data_from_Databases_APIs_And_The_Cloud.ipynb)
+
+---
+
 ## References
 1. SQLite documentation: [https://www.sqlite.org/docs.html](https://www.sqlite.org/docs.html)
 2. MongoDB documentation: [https://www.mongodb.com/docs/manual/](https://www.mongodb.com/docs/manual/)
