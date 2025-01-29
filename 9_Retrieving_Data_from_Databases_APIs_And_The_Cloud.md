@@ -100,9 +100,10 @@ df = pd.read_csv(data_url, header=None)
 ---
 
 ## Exercise
-To practice retrieving data from databases, APIs, and the cloud, work through the following Jupyter Notebook:
+To practice retrieving data from databases, APIs, and the cloud, work through the following Jupyter Notebooks:
 
-[Retrieving Data from Databases, APIs, and the Cloud - Exercise](https://github.com/team-codebug/ml-specialisation/blob/main/9_Retrieving_Data_from_Databases_APIs_And_The_Cloud.ipynb)
+1. [Retrieving Data from Databases, APIs, and the Cloud - Exercise 1](https://github.com/team-codebug/ml-specialisation/blob/main/9_Retrieving_Data_from_Databases_APIs_And_The_Cloud.ipynb)
+2. [Retrieving Data from Databases, APIs, and the Cloud - Exercise 2](https://github.com/team-codebug/ml-specialisation/blob/main/9_2_Retrieving_Data_from_Databases_APIs_And_The_Cloud.ipynb)
 
 ---
 
